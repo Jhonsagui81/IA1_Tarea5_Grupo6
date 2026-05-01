@@ -3,12 +3,12 @@ Tarea 5 del laboratorio de IA 2026 primer semestre
 # Tarea 5 - Bot de Telegram
 
 ## Integrantes
-* **Jhonatan Alexander Aguilar Reyes** - [202106003]
+* **[Jhonatan Alexander Aguilar Reyes]** - [202106003]
 * **[Sergio Estuardo Guix Manuel]** - [201906468]
 
 ## Detalle de Trabajo
-* **Jhonatan Aguilar:** Configuración del bot en BotFather, Creacion del repositorio 
-* **[Nombre Compañero 2]:** Implementación de comandos `/hola` y `/contacto`, documentacion
+* **[Jhonatan Aguilar]:** Configuración del bot en BotFather, Creacion del repositorio 
+* **[Sergio Estuardo Guix Manuel]:** Implementación de comandos `/hola` y `/contacto`, documentacion
 
 ## Descripción del Bot
 Este bot fue desarrollado en Python utilizando la librería `pyTelegramBotAPI`. Su función principal es responder a comandos específicos para demostrar la comunicación bidireccional entre usuarios de Telegram y un servidor backend.
