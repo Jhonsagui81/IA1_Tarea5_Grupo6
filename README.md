@@ -10,6 +10,10 @@ Tarea 5 del laboratorio de IA 2026 primer semestre
 * **[Jhonatan Aguilar]:** Configuración del bot en BotFather, Creacion del repositorio 
 * **[Sergio Estuardo Guix Manuel]:** Implementación de comandos `/hola` y `/contacto`, documentacion
 
+## Link grupo telegram
+telegram
+https://t.me/+Md1I7UMwISpiMzJh
+
 ## Descripción del Bot
 Este bot fue desarrollado en Python utilizando la librería `pyTelegramBotAPI`. Su función principal es responder a comandos específicos para demostrar la comunicación bidireccional entre usuarios de Telegram y un servidor backend.
 
